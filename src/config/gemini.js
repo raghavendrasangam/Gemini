@@ -1,4 +1,4 @@
-//const apiKey = "AIzaSyAmMnhySzLZ-uM85rG7sRQsMO2WKRfiA-c";
+
 
 // node --version # Should be >= 18
 // npm install @google/generative-ai
